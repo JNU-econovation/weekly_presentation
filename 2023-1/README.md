@@ -6,7 +6,8 @@
 | ---- | ----   | -----   | ---- | ------- | ----- |
 | 3/31 | A      | [1st](./A_team/1st/) | 4/7  | B     | [1st](./B_team/1st/) |
 | 5/1  | A      | [2nd](./A_team/2nd/) | 5/19 | B     | [2nd](./B_team/2nd/) |
-| 5/26 | A      | [3rd](./A_team/3rd/) | 6/2  | B     | [3rd](./B_team/3rd/) |
-| 6/30 | A      | [4th](./A_team/4th/) | 7/7  | B     | [4th](./B_team/4th/) |
-| 7/14 | A      | [5th](./A_team/5th/) |
+| 5/12 | A      | [3rd](./A_team/3rd/) | 6/2  | B     | [3rd](./B_team/3rd/) |
+| 5/26 | A      | [4th](./A_team/4th/) | 7/7  | B     | [4th](./B_team/4th/) |
+| 6/30 | A      | [5th](./A_team/5th/) |
+| 7/14 | A | [6th](./A_team/6th/)
 
