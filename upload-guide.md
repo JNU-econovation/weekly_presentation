@@ -1,15 +1,12 @@
 # 주간발표 GitHub 업로드 가이드
 
 **주간발표 깃허브 저장소**
-
 ---
-
 [https://github.com/JNU-econovation/weekly_presentation](https://github.com/JNU-econovation/weekly_presentation)
 
+
 **목차**
-
 ---
-
 1. 본인의 레포로 fork 하기
 2. git init
 3. 개인 저장소와 원격 저장소 연결하기 - remote
@@ -21,13 +18,14 @@
 9. git push
 10. pull request
 
-******************\*\*******************가이드 진행 순서******************\*\*******************
 
+
+**가이드 진행 순서**
 ---
-
 **처음** 주간발표 레포에 업로드 하는 경우: 목차의 1번부터 순서대로 진행
 
 **한 번 이상** 올려본 경우: 목차의 4번 진행 후 6~10번 진행
+
 
 ### 1. 본인의 레포로 fork 하기
 
@@ -55,6 +53,7 @@
 
 본인의 계정에서 복제본이 생성된 것을 확인할 수 있습니다.
 
+
 ### 2. git init
 
 2-1. 본인의 PC에 폴더를 하나 생성합니다.
@@ -68,6 +67,7 @@
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/fab779db-0396-49a6-9325-979c87a992ce)
 
 저는 바탕화면(desktop)에 econo-presentation 폴더를 생성한 후 git init 명령어를 실행했습니다.
+
 
 ### 3. 개인 저장소와 원격 저장소 연결하기 - remote
 
@@ -97,6 +97,7 @@ git remote -v
 
 `origin` 이라는 이름으로 저장소의 주소가 잘 연결 된 것을 확인할 수 있습니다.
 
+
 ### 4. 원격 저장소의 내용을 가져오기 - pull
 
 위의 단계까지는 단순한 연결을 한 것이므로, 원격 저장소의 폴더 혹은 파일을 내 컴퓨터로 가져오기 위해 pull 명령어를 사용합니다.
@@ -108,6 +109,7 @@ git pull origin main
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/5c4d65d5-e36e-4cd9-b54a-5f111fdc0668)
 
 ‘origin(위에서 연결한 주소)의 `main` 브랜치에 속한 내용을 가져오겠다!’는 의미입니다.
+
 
 ### 5. 브랜치 생성 및 이동
 
@@ -136,6 +138,7 @@ git switch 팀명
 
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/8fcb76f5-e52f-4153-a21c-80a5374b7b60)
 
+
 ### 6. 발표 자료 추가하기
 
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/c7c96486-7d25-45df-a762-a4f9bd308ce7)
@@ -148,7 +151,7 @@ git switch 팀명
 
 실제 파일탐색기에서 편하게 폴더를 생성해도 되지만, CLI 환경에 익숙해지기 위해서는 명령어로 폴더를 만들어보세요~!
 
-⚠️ 폴더를 만들기 위해서는 3가지의 명령어만 기억해주시면 됩니다. ⚠️
+⚠️ **폴더를 만들기 위해서는 3가지의 명령어만 기억해주시면 됩니다.** ⚠️
 
 1. ls: 현재 위치의 폴더 내용 리스트 출력
 2. cd: 현재 작업 중인 폴더의 위치 이동
@@ -159,6 +162,7 @@ git switch 팀명
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/20dbc8ed-b8cf-4ada-b558-0fc96782d60d)
 
 실제 파일탐색기에서 준비한 발표자료를 추가합니다.
+
 
 ### 7. git add
 
@@ -178,6 +182,7 @@ git status
 
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/7efa7da1-787c-48f9-9c7a-6bf2c4058239)
 
+
 ### 8. git commit
 
 커밋은 변경사항을 기록하는 것입니다! 주간발표 레포에서는 `docs: 팀명`으로 메시지를 통일합니다.
@@ -188,6 +193,7 @@ git commit -m "docs: 팀명"
 
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/d10fdd50-6434-4401-9fe4-64a78d3f2083)
 
+
 ### 9. git push
 
 origin(원격 저장소)에 변경사항을 push 합니다.
@@ -197,6 +203,7 @@ git push origin 팀명 # 여기서 팀명은 4번에서 생성한 브랜치 이�
 ```
 
 ![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/f01a54b3-0d70-463a-ab80-f41d3c05a78e)
+
 
 ### 10. pull request
 
