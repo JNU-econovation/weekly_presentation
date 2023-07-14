@@ -1,0 +1,2 @@
+# KIPI 발표 자료
+https://www.figma.com/proto/4XTR8jkbIfoH6b9QTQ4Kp1/%EC%A3%BC%EA%B0%84%EB%B0%9C%ED%91%9C?type=design&node-id=5-157&t=q7KJRV2SGEVT6Udb-0&scaling=min-zoom&starting-point-node-id=483%3A2&show-proto-sidebar=1
