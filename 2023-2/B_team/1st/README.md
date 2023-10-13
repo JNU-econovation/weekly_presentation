@@ -1,1 +1,2 @@
 # B Team 1번째 주간 발표 자료
+https://www.figma.com/file/ki5uvxjXJHxqmrUsM9zB1P/2023.10.13-%EC%8A%A4%EB%AC%BC-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EB%B0%9C%ED%91%9C?type=design&node-id=0%3A1&mode=design&t=JVRj5N4lSWftQAfn-1
