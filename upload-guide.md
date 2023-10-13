@@ -110,7 +110,7 @@ git pull origin [현재 학기 브랜치]
 
 ![Untitled](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/48ccee65-a756-49d5-8c0d-376eaf3e5fd8)
 
-‘origin(위에서 연결한 주소)의 `main` 브랜치에 속한 내용을 가져오겠다!’는 의미입니다.
+‘origin(위에서 연결한 주소)의 `[현재 학기 브랜치]`에 속한 내용을 가져오겠다!’는 의미입니다.
 그림에서 2023-2처럼 현재 학기의 브랜치를 작성해주세요.
 
 
