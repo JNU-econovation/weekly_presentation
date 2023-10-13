@@ -45,9 +45,11 @@
 
 위의 레포에서 fork를 클릭합니다.
 
-![Group 4.png](https://github.com/baegyeong/baegyeong/assets/102566546/3db5f540-4462-496e-896e-f54ef18257ee)
+![Group 4.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/e591b38c-ee6a-4e14-a0bb-5f29377d44c8)
 
-그럼 이러한 창이 뜨는데, 밑에 Create fork를 클릭합니다.
+
+그럼 이러한 창이 뜨는데, 'copy the main branch only'는 체크 해제 합니다. (학기별로 발료자료 브랜치가 만들어져 있어서, 모두 불러오기 위해서는 체크 해제가 필요합니다.)
+밑에 Create fork를 클릭합니다.
 
 ![Group 5.png](https://github.com/baegyeong/baegyeong/assets/102566546/9f2bbc59-3efd-474f-9b4c-66f8d364d10d)
 
@@ -103,12 +105,13 @@ git remote -v
 위의 단계까지는 단순한 연결을 한 것이므로, 원격 저장소의 폴더 혹은 파일을 내 컴퓨터로 가져오기 위해 pull 명령어를 사용합니다.
 
 ```bash
-git pull origin main
+git pull origin [현재 학기 브랜치]
 ```
 
-![Untitled](https://github.com/baegyeong/baegyeong/assets/102566546/5c4d65d5-e36e-4cd9-b54a-5f111fdc0668)
+![Untitled](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/48ccee65-a756-49d5-8c0d-376eaf3e5fd8)
 
 ‘origin(위에서 연결한 주소)의 `main` 브랜치에 속한 내용을 가져오겠다!’는 의미입니다.
+그림에서 2023-2처럼 현재 학기의 브랜치를 작성해주세요.
 
 
 ### 5. 브랜치 생성 및 이동
@@ -215,6 +218,6 @@ git push origin 팀명 # 여기서 팀명은 4번에서 생성한 브랜치 이�
 
 Compare&pull request 버튼을 클릭합니다.
 
-![Group 10.png](https://github.com/baegyeong/baegyeong/assets/102566546/227f3e83-3b9f-44f8-a774-e27e119aa354)
+![Group 10.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/656a2935-11f9-4457-a327-576d3d919dfe)
 
 밑의 create pull request 버튼을 클릭하면 주간발표 업로드가 마무리 됩니다!
