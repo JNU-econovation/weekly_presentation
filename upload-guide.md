@@ -45,11 +45,11 @@
 
 위의 레포에서 fork를 클릭합니다.
 
-![Group 4.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/e591b38c-ee6a-4e14-a0bb-5f29377d44c8)
+![Group 13.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/5755e1f9-de2f-4206-ba6e-08d2f87b9615)
 
 
-그럼 이러한 창이 뜨는데, 'copy the main branch only'는 체크 해제 합니다. (학기별로 발료자료 브랜치가 만들어져 있어서, 모두 불러오기 위해서는 체크 해제가 필요합니다.)
-밑에 Create fork를 클릭합니다.
+그럼 이러한 창이 뜨는데, 밑에 Create fork를 클릭합니다.
+(현재 이 글의 시점이 2023-2가 기본 브랜치이기 때문에 2023-2 브랜치를 포크하는 것입니다. `2023-2` 부분은 학기마다 바뀝니다.)
 
 ![Group 5.png](https://github.com/baegyeong/baegyeong/assets/102566546/9f2bbc59-3efd-474f-9b4c-66f8d364d10d)
 
