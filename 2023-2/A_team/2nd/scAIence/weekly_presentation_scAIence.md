@@ -1,0 +1,1 @@
+https://www.figma.com/proto/tFf8F4l2nUq9KlQbbQ0TYe/weekly_presentation?page-id=117%3A2&type=design&node-id=118-27&viewport=-136%2C541%2C0.05&t=7WDSJh8pFkMZIc3O-1&scaling=contain&mode=design
