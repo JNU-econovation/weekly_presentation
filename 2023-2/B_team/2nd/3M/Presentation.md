@@ -1,0 +1,1 @@
+https://www.figma.com/proto/m6wN6uJAYqbKdgOpBb4yjo/2023-2-2nd-%EC%A3%BC%EA%B0%84%EB%B0%9C%ED%91%9C?page-id=0%3A1&type=design&node-id=4-109&viewport=2307%2C-665%2C0.15&t=NFwFUMbwrVeS2H3s-1&scaling=contain&starting-point-node-id=4%3A109&mode=design
