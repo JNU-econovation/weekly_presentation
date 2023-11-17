@@ -1,0 +1,1 @@
+https://www.figma.com/proto/SfKK28nhG3RjgxYy2zEO78/smool-pt2?page-id=0%3A1&type=design&node-id=84-37&viewport=309%2C139%2C0.05&t=3zlsGwO6K2RPDLrc-1&scaling=scale-down&mode=design
