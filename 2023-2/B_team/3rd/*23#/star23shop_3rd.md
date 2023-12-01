@@ -1,1 +1,1 @@
-https://www.figma.com/file/HL5Wdd5hfq3ku2IcuERX0P/12.01-*23%23?type=design&node-id=33-661&mode=design&t=j99lsFUbdyq0Ngqw-0
+https://www.figma.com/proto/HL5Wdd5hfq3ku2IcuERX0P/12.01-*23%23?type=design&node-id=34-661&t=12djnJeA7hmFxMFa-0&scaling=min-zoom&page-id=33%3A661
