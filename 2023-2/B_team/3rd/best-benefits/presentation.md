@@ -1,0 +1,1 @@
+https://www.figma.com/proto/qNKghmBQYy5tdoUj1dtRcY/web2-2nd-presentation?type=design&node-id=132-459&t=6j1jMJRhjaMjjYlw-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=132%3A459&show-proto-sidebar=1
