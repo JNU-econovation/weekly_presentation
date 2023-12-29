@@ -7,4 +7,5 @@
 | 10/6  | A       | [1st](./A_team/1st/) | 10/13 | B       | [1st](./B_team/1st/) |
 | 11/10 | A       | [2nd](./A_team/2nd/) | 11/17 | B       | [2nd](./B_team/2nd/) |
 | 11/24 | A       | [3rd](./A_team/3rd/) | 12/1  | B       | [3rd](./B_team/3rd/) |
-| 12/29 | A       | [4th](./A_team/4th/) | 1/12  | B       | [4th](./B_team/4th/) |
+| 12/29 | A       | [4th](./A_team/4th/) | 1/5  | B       | [4th](./B_team/4th/) |
+| 1/12  | A       | [5th](./A_team/5th/) |
