@@ -1,1 +1,0 @@
-https://www.figma.com/file/NaEGloREq4UtxezNhWwYf2/A8T_4TH_PRESENTATION?type=design&node-id=0-1&mode=design&t=MntS3VSekvZo5iCT-0
