@@ -27,6 +27,8 @@
 **한 번 이상** 올려본 경우: 목차의 4번 진행 후 6~10번 진행
 
 
+
+
 ### 1. 본인의 레포로 fork 하기
 
 1-1. fork란?
@@ -45,11 +47,17 @@
 
 위의 레포에서 fork를 클릭합니다.
 
-![Group 4.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/e591b38c-ee6a-4e14-a0bb-5f29377d44c8)
+![Group 13](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/2c721d18-ce1f-4acc-983c-c06146b7e4ca)
 
 
-그럼 이러한 창이 뜨는데, 'copy the main branch only'는 체크 해제 합니다. (학기별로 발료자료 브랜치가 만들어져 있어서, 모두 불러오기 위해서는 체크 해제가 필요합니다.)
-밑에 Create fork를 클릭합니다.
+그럼 이러한 창이 뜨는데, Copy fork를 클릭합니다. 
+
+이때 하단의 Copy the `20XX-X` ~ 문장에서 브랜치가 현재학기로 설정되어있는지 확인하세요!
+
+현재학기로 설정되어 있지 않다면 회장단에 문의해주시고, 회장단은 현재 학기 브랜치를 default로 설정해주시기 바랍니다.
+
+
+
 
 ![Group 5.png](https://github.com/baegyeong/baegyeong/assets/102566546/9f2bbc59-3efd-474f-9b4c-66f8d364d10d)
 
@@ -111,7 +119,8 @@ git pull origin [현재 학기 브랜치]
 ![Untitled](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/48ccee65-a756-49d5-8c0d-376eaf3e5fd8)
 
 ‘origin(위에서 연결한 주소)의 `[현재 학기 브랜치]`에 속한 내용을 가져오겠다!’는 의미입니다.
-그림에서 2023-2처럼 현재 학기의 브랜치를 작성해주세요.
+
+사진의 2023-2처럼 현재 학기의 브랜치를 작성해주세요.
 
 
 ### 5. 브랜치 생성 및 이동
@@ -220,4 +229,4 @@ Compare&pull request 버튼을 클릭합니다.
 
 ![Group 10.png](https://github.com/JNU-econovation/weekly_presentation/assets/102566546/656a2935-11f9-4457-a327-576d3d919dfe)
 
-밑의 create pull request 버튼을 클릭하면 주간발표 업로드가 마무리 됩니다!
+하단의 create pull request 버튼을 클릭하면 주간발표 업로드가 마무리 됩니다!
