@@ -26,6 +26,6 @@
 
 ## 업로드 방법
 
-업로드 방법은 [주간발표 Github 업로드 가이드](https://github.com/JNU-econovation/weekly_presentation/blob/main/upload-guide.md)를 참고하세요!
+업로드 방법은 [주간발표 Github 업로드 가이드](https://github.com/JNU-econovation/weekly_presentation/blob/2024-1/upload-guide.md)를 참고하세요!
 
 발표에서 오류나 문제점을 발견하면 저장소에서 이슈를 생성하거나 직접 발표자에게 연락해주세요.
