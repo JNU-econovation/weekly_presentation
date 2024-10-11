@@ -1,1 +1,0 @@
-KIPI 발표 [피그마 자료](https://www.figma.com/proto/4XTR8jkbIfoH6b9QTQ4Kp1/%EC%A3%BC%EA%B0%84%EB%B0%9C%ED%91%9C?page-id=5%3A157&type=design&node-id=401-2&viewport=-608%2C285%2C0.04&t=PhojESfwWclZNkXn-1&scaling=min-zoom&starting-point-node-id=401%3A2&show-proto-sidebar=1&mode=design) 제출합니다.

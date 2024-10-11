@@ -1,2 +1,0 @@
-# timcooki 주간발표 
-https://www.figma.com/proto/fECqXnHCdiWU3Dzvhp6Mh0/%ED%8C%80%EC%BF%A0%ED%82%A4?page-id=652%3A6180&type=design&node-id=1050-6071&viewport=1194%2C-538%2C0.04&t=o5CMGDvncMjrZF0y-1&scaling=contain&starting-point-node-id=652%3A6693&show-proto-sidebar=1&mode=design
