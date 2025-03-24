@@ -1,2 +1,0 @@
-## 더지 팀 발표자료입니다.
-https://www.figma.com/proto/8cO2HdlaNT3dPtVCXI4frz/the-%E5%9C%B0?page-id=226%3A14&type=design&node-id=1620-1634&viewport=-3787%2C-1672%2C0.15&t=foTGBBgALRWOw0rJ-9&scaling=contain&starting-point-node-id=1620%3A1634&show-proto-sidebar=1
