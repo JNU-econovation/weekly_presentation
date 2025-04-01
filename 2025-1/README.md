@@ -8,4 +8,4 @@
 | 4/11 | A       | [2nd](./A_TEAM/2st/) | 5/9  | B       | [2nd](./B_TEAM/2nd/) |
 | 5/16 | A       | [3rd](./A_TEAM/3rd/) | 5/23 | B       | [3rd](./B_TEAM/3rd/) |
 | 5/30 | A       | [4th](./A_TEAM/4th/) | 7/4  | B       | [4th](./B_TEAM/4th/) |
-| 5/30 | A       | [5th](./A_TEAM/5th/) | 7/18 | B       | [5th](./B_TEAM/5th/) |
+| 7/11 | A       | [5th](./A_TEAM/5th/) | 7/18 | B       | [5th](./B_TEAM/5th/) |
