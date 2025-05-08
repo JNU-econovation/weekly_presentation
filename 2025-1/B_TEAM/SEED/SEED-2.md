@@ -1,0 +1,1 @@
+https://www.figma.com/proto/EHqK2MuoCh71Oba14QkHYQ/seed-%EB%B0%9C%ED%91%9C?page-id=0%3A1&node-id=1-2&viewport=486%2C341%2C0.58&t=oVpeZEhP2bWoicCW-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A2
