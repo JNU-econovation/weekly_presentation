@@ -1,0 +1,1 @@
+https://www.figma.com/proto/XSW1ubxlLLsDSQ8rccawJP/25-2-econovation?node-id=50-3&t=tFwIPcT1h1TM5Q1y-1
