@@ -1,0 +1,1 @@
+https://www.figma.com/deck/BSGyKPIVk0v43e52Y5rxIm/11-7-%EB%B8%94%EB%A3%A8%ED%94%84%EB%A6%B0%ED%8A%B8-%EB%B0%9C%ED%91%9C?node-id=210-299&viewport=-51%2C-75%2C0.48&t=HwsWz86La0QiKspI-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
