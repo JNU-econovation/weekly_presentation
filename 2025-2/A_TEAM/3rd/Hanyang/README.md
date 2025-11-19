@@ -1,0 +1,1 @@
+https://www.figma.com/proto/eHg9kUe1zEOJLKYJWvH1CR/2025-11-21-%EC%97%90%EC%BD%94%EB%85%B8-%EB%B0%9C%ED%91%9C?page-id=0%3A1&node-id=2-2&p=f&viewport=-1953%2C250%2C0.03&t=17nS1IfSrfwwjIh9-1&scaling=contain&content-scaling=fixed&starting-point-node-id=2%3A2
