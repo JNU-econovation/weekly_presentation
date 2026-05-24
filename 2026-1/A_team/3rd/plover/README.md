@@ -1,0 +1,1 @@
+https://www.figma.com/slides/Gj6xdrxyTWlfxWbSDu6DUi/%E1%84%89%E1%85%A6%E1%86%BA%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%E1%84%90%E1%85%B5%E1%86%BC-ver2?node-id=4-329&t=StFiikrEX9Lm2vIu-0
