@@ -1,0 +1,1 @@
+figma.com/deck/PWymtfOcQhHItu3eQiOs5B/조오타-3rd?node-id=1-1103&t=1BhkCPluiY9F7dkc-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&fuid=1633723514181246180
