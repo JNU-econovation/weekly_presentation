@@ -1,0 +1,1 @@
+https://www.figma.com/proto/ilh0lG7yMcaHwWjhtvOS49/26.06.05-%EB%B0%9C%ED%91%9C?page-id=0%3A1&node-id=4-2&viewport=1716%2C1630%2C0.21&t=1DxHPiL97YJUhBfT-1&scaling=contain&content-scaling=fixed&starting-point-node-id=4%3A2
