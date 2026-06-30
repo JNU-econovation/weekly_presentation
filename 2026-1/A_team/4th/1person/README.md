@@ -1,0 +1,1 @@
+https://www.figma.com/deck/HHzPtRkGrLc2UNQIuNiKrG/AI-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95?node-id=1-560&t=RndDd71TvDOdOmMH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
