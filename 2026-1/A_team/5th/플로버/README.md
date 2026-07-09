@@ -1,0 +1,1 @@
+https://www.figma.com/proto/7P1h1JKDnuNUhyRT6vVRt8/Plover-App-Design?node-id=1286-78&p=f&viewport=396%2C334%2C0.29&t=degCgeZZ5zzk2Obb-1&scaling=contain&content-scaling=fixed&page-id=1276%3A4565
